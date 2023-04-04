@@ -240,7 +240,7 @@ class XtdGearModels
 };
 ```
 
-### The bluit-in approach
+### The built-in approach
 
 You can builtin configuration for ACE3 Arsenal Extended within your mod, without creating a dependency. You may duplicate all what you need, or use conventional names.
 
